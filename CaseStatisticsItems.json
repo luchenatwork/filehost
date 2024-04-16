@@ -1,0 +1,392 @@
+{
+    "result": {
+        "$type": "GetCaseStatisticsItemsResult",
+        "items": {
+            "errors": {},
+            "statistics": [
+                {
+                    "index": 0,
+                    "valueIndex": 0,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684978
+                    },
+                    "start": "2018-01-06T12:49:00",
+                    "end": "2018-02-02T00:00:16",
+                    "duration": "26.11:11:16",
+                    "eventCount": 5,
+                    "activeTime": "00:54:49",
+                    "utilization": 0.001438332321675655,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 1,
+                    "valueIndex": 1,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684979
+                    },
+                    "start": "2018-01-06T12:54:00",
+                    "end": "2018-02-02T00:00:30",
+                    "duration": "26.11:06:30",
+                    "eventCount": 5,
+                    "activeTime": "01:14:59",
+                    "utilization": 0.001967730789585329,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 2,
+                    "valueIndex": 2,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684980
+                    },
+                    "start": "2018-01-06T12:59:00",
+                    "end": "2018-02-02T00:00:12",
+                    "duration": "26.11:01:12",
+                    "eventCount": 5,
+                    "activeTime": "00:54:27",
+                    "utilization": 0.0014290888475953514,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 7,
+                    "valueIndex": 7,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684985
+                    },
+                    "start": "2018-01-06T13:03:00",
+                    "end": "2018-02-02T00:00:28",
+                    "duration": "26.10:57:28",
+                    "eventCount": 5,
+                    "activeTime": "00:57:40",
+                    "utilization": 0.001513661450805128,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 8,
+                    "valueIndex": 8,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684986
+                    },
+                    "start": "2018-01-06T13:09:00",
+                    "end": "2018-02-02T00:00:11",
+                    "duration": "26.10:51:11",
+                    "eventCount": 5,
+                    "activeTime": "00:53:59",
+                    "utilization": 0.0014172133446453707,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 3,
+                    "valueIndex": 3,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684981
+                    },
+                    "start": "2018-01-06T13:16:00",
+                    "end": "2018-02-02T00:00:32",
+                    "duration": "26.10:44:32",
+                    "eventCount": 5,
+                    "activeTime": "00:59:49",
+                    "utilization": 0.0015706288467059245,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 9,
+                    "valueIndex": 9,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684987
+                    },
+                    "start": "2018-01-06T13:18:00",
+                    "end": "2018-02-02T00:00:23",
+                    "duration": "26.10:42:23",
+                    "eventCount": 5,
+                    "activeTime": "00:34:57",
+                    "utilization": 0.0009177471823148324,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 4,
+                    "valueIndex": 4,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684982
+                    },
+                    "start": "2018-01-06T13:20:00",
+                    "end": "2018-02-02T00:00:34",
+                    "duration": "26.10:40:34",
+                    "eventCount": 5,
+                    "activeTime": "01:10:20",
+                    "utilization": 0.0018469613109748892,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 5,
+                    "valueIndex": 5,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684983
+                    },
+                    "start": "2018-01-06T13:35:00",
+                    "end": "2018-02-02T00:00:32",
+                    "duration": "26.10:25:32",
+                    "eventCount": 5,
+                    "activeTime": "01:22:37",
+                    "utilization": 0.0021703798536909155,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 6,
+                    "valueIndex": 6,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684984
+                    },
+                    "start": "2018-01-06T13:39:00",
+                    "end": "2018-02-02T00:00:28",
+                    "duration": "26.10:21:28",
+                    "eventCount": 5,
+                    "activeTime": "00:49:36",
+                    "utilization": 0.0013031552471265778,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 10,
+                    "valueIndex": 10,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684988
+                    },
+                    "start": "2018-01-06T13:42:00",
+                    "end": "2018-02-02T00:00:31",
+                    "duration": "26.10:18:31",
+                    "eventCount": 5,
+                    "activeTime": "00:34:57",
+                    "utilization": 0.000918322705693119,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 11,
+                    "valueIndex": 11,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33684989
+                    },
+                    "start": "2018-01-06T13:44:00",
+                    "end": "2018-02-02T00:00:28",
+                    "duration": "26.10:16:28",
+                    "eventCount": 5,
+                    "activeTime": "01:30:35",
+                    "utilization": 0.002380234984155124,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 12,
+                    "valueIndex": 12,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33689413
+                    },
+                    "start": "2018-01-06T14:29:00",
+                    "end": "2018-02-02T00:00:39",
+                    "duration": "26.09:31:39",
+                    "eventCount": 5,
+                    "activeTime": "00:52:54",
+                    "utilization": 0.0013916786037964677,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 13,
+                    "valueIndex": 13,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33689414
+                    },
+                    "start": "2018-01-06T14:31:00",
+                    "end": "2018-02-02T00:00:38",
+                    "duration": "26.09:29:38",
+                    "eventCount": 5,
+                    "activeTime": "00:40:38",
+                    "utilization": 0.0010690272378318129,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 19,
+                    "valueIndex": 19,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33689420
+                    },
+                    "start": "2018-01-06T14:33:00",
+                    "end": "2018-01-11T14:51:17",
+                    "duration": "5.00:18:17",
+                    "eventCount": 4,
+                    "activeTime": "00:54:54",
+                    "utilization": 0.007605686485937331,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 14,
+                    "valueIndex": 14,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33689415
+                    },
+                    "start": "2018-01-06T14:35:00",
+                    "end": "2018-02-02T00:00:22",
+                    "duration": "26.09:25:22",
+                    "eventCount": 5,
+                    "activeTime": "00:39:36",
+                    "utilization": 0.001041958109424897,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 15,
+                    "valueIndex": 15,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33689416
+                    },
+                    "start": "2018-01-06T14:36:00",
+                    "end": "2018-02-02T00:00:16",
+                    "duration": "26.09:24:16",
+                    "eventCount": 5,
+                    "activeTime": "01:11:46",
+                    "utilization": 0.001888384462095484,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 16,
+                    "valueIndex": 16,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33689417
+                    },
+                    "start": "2018-01-06T14:40:00",
+                    "end": "2018-02-02T00:00:38",
+                    "duration": "26.09:20:38",
+                    "eventCount": 5,
+                    "activeTime": "00:54:13",
+                    "utilization": 0.0014267306071214603,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 17,
+                    "valueIndex": 17,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33689418
+                    },
+                    "start": "2018-01-06T14:41:00",
+                    "end": "2018-02-02T00:00:24",
+                    "duration": "26.09:19:24",
+                    "eventCount": 5,
+                    "activeTime": "01:44:26",
+                    "utilization": 0.0027482890080720576,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                },
+                {
+                    "index": 18,
+                    "valueIndex": 18,
+                    "name": {
+                        "Type": "System.Int64",
+                        "Value": 33689419
+                    },
+                    "start": "2018-01-06T14:46:00",
+                    "end": "2018-02-02T00:00:22",
+                    "duration": "26.09:14:22",
+                    "eventCount": 5,
+                    "activeTime": "01:06:30",
+                    "utilization": 0.0017502594682895974,
+                    "selfLoopCount": 0,
+                    "loopCount": 0,
+                    "caseLevelAttributes": [],
+                    "financeAttributes": null,
+                    "calculatedMetrics": []
+                }
+            ]
+        }
+    },
+    "success": true,
+    "message": null
+}
