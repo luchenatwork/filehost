@@ -1,0 +1,10 @@
+{
+    "ServiceNames": [
+        {
+            "ServiceName": "PowerAutomate_Runtime"
+        },
+        {
+            "ServiceName": "PowerAutomate_Studio"
+        }
+    ]
+}
