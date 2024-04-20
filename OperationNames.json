@@ -1,0 +1,16 @@
+{
+    "OperationNames": [
+        {
+            "ServiceName": "PowerAutomate_Runtime",
+            "OperationName": "Flow trigger success"
+        },
+        {
+            "ServiceName": "PowerAutomate_Studio",
+            "OperationName": "Cloud Flows - Start flow using previous trigger"
+        },
+        {
+            "ServiceName": "PowerAutomate_Studio",
+            "OperationName": "Trigger Diagnostics"
+        }
+    ]
+}
