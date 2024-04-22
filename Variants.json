@@ -1,63 +1,35 @@
 {
-    "result": {
-        "$type": "GetVariantsResult",
-        "variants": [
-            {
-                "id": {
-                    "ValueDataType": 0,
-                    "Values": [
-                        "MRR CREATION",
-                        "INVOICE CREATION",
-                        "SENT",
-                        "APPROVED",
-                        "INVOICE_PAYMENT"
-                    ]
-                },
-                "index": 0,
-                "name": "Variant 1",
-                "start": "2018-01-06T12:49:00",
-                "end": "2018-02-02T00:00:39",
-                "caseCount": 19,
-                "eventCount": 95,
-                "customStatisticValue": null
-            },
-            {
-                "id": {
-                    "ValueDataType": 0,
-                    "Values": [
-                        "MRR CREATION",
-                        "INVOICE CREATION",
-                        "SENT",
-                        "APPROVED"
-                    ]
-                },
-                "index": 1,
-                "name": "Variant 2",
-                "start": "2018-01-06T14:33:00",
-                "end": "2018-01-11T14:51:17",
-                "caseCount": 1,
-                "eventCount": 4,
-                "customStatisticValue": null
-            },
-            {
-                "id": {
-                    "ValueDataType": 0,
-                    "Values": [
-                        "MRR CREATION",
-                        "INVOICE CREATION",
-                        "SENT"
-                    ]
-                },
-                "index": 2,
-                "name": "Variant 2",
-                "start": "2018-01-06T14:33:00",
-                "end": "2018-01-11T14:51:17",
-                "caseCount": 1,
-                "eventCount": 3,
-                "customStatisticValue": null
-            }
-        ]
-    },
-    "success": true,
-    "message": null
+  "result": {
+    "$type": "GetVariantsResult",
+    "variants": [
+      {
+        "id": {
+          "ValueDataType": 0,
+          "Values": "iwGABQAAAGAACAxNUlIgQ1JFQVRJT06AAAgQSU5WT0lDRSBDUkVBVElPTiAACARTRU5UQAAICEFQUFJPVkVEeAAID0lOVk9JQ0VfUEFZTUVOVAM="
+        },
+        "index": 0,
+        "name": "Variant 1",
+        "start": "2018-01-06T12:49:00",
+        "end": "2018-02-02T00:00:39",
+        "caseCount": 19,
+        "eventCount": 95,
+        "customStatisticValue": null
+      },
+      {
+        "id": {
+          "ValueDataType": 0,
+          "Values": "iwGABAAAAGAACAxNUlIgQ1JFQVRJT06AAAgQSU5WT0lDRSBDUkVBVElPTiAACARTRU5UQAAICEFQUFJPVkVEAw=="
+        },
+        "index": 1,
+        "name": "Variant 2",
+        "start": "2018-01-06T14:33:00",
+        "end": "2018-01-11T14:51:17",
+        "caseCount": 1,
+        "eventCount": 4,
+        "customStatisticValue": null
+      }
+    ]
+  },
+  "success": true,
+  "message": null
 }
